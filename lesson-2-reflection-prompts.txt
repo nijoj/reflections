@@ -2,6 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 	Git will create a .git directory for tracking files.It is needed to add commits.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	It is a temporary area to make changes before making commits.It allows you to freely add or remove files to be tracked before commits.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
