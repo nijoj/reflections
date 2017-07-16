@@ -17,3 +17,4 @@ the diagram the way we do?
 	Merging creates a single branch out of two branches. It is represented as it is because merging creates a single branch and the merged branch can have both branches as parent.
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	Automatic merging simplifies merging process but git cannot auto merge in all circumstances. Always doing merges manually reduces confusions in future but can be time wasting when it is auto mergable.
