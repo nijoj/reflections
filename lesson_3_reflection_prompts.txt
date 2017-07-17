@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If i want to try out some changes or tr a new idea without breaking the main code. I can easliy make changes on new branch and merge with the master as needed without much complicatons. If i make changes on main branch i may break something and have to revert it , but it can keep thigs simpler as i have to deal with only one branch.
